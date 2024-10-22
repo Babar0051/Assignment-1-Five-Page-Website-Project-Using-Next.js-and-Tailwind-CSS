@@ -1,0 +1,2 @@
+# Assignment-1-Five-Page-Website-Project-Using-Next.js-and-Tailwind-CSS
+This project creates a functional web application using Next.js and Tailwind CSS, featuring five distinct pages. It demonstrates component architecture and routing while ensuring code modularity with reusable components. Styling is achieved through Tailwind CSS for a modern design, showcasing best practices in web development and user experience.
